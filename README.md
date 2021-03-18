@@ -22,7 +22,7 @@ Add after approving.
 
 **Vaccines and Tests performed:**
 > Raw data:  
-> Data Science For Social Good Portugal. Data on the COVID-19 pandemic in Portugal Available online: https://github.com/dssg-pt/covid19pt-data
+> Data Science For Social Good Portugal. Data on the COVID-19 pandemic in Portugal. Available online: https://github.com/dssg-pt/covid19pt-data
 
 ## Citation
 
